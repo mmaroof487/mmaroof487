@@ -27,5 +27,5 @@
 </a>
 <!-- *tailwind -->
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-<img src="image-removebg-preview.png" alt="tw-css" width="40" height="35">
+<img src="image-removebg-preview.png" alt="tw-css" width="35" height="35">
 </a>
