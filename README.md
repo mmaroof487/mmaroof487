@@ -19,13 +19,13 @@
 </a>
 <!-- *js -->
 <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
-<img src="image-removebg-preview5.png" alt="js" width="70" height="35"/>
-</a>
-<!-- *tailwind -->
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-<img src="image-removebg-preview.png" alt="tw-css" width="40" height="30">
+<img src="image-removebg-preview5.png" alt="js" width="40" height="40"/>
 </a>
 <!-- *bs -->
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
 <img src="image-removebg-preview2.png" alt="bs" width="40" height="40">
+</a>
+<!-- *tailwind -->
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+<img src="image-removebg-preview.png" alt="tw-css" width="40" height="40">
 </a>
