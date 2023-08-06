@@ -23,5 +23,9 @@
 </a>
 <!-- *tailwind -->
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-<img src="image-removebg-preview.png" alt="tw-css" width="40" height="40">
+<img src="image-removebg-preview.png" alt="tw-css" width="40" height="30">
+</a>
+<!-- *bs -->
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+<img src="image-removebg-preview2.png" alt="bs" width="40" height="30">
 </a>
