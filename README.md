@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Maroof</h1>
 <h3 align="center">A passionate Front-End Developer and a College student.</h3>
 
-- 🌱 I’m currently learning **React JS <img src="download.png"  alt="React" width="40" height="40"> and other Front End Tools**
+- 🌱 I’m currently learning **ReactJS <img src="download-removebg-preview.png.png"  alt="React" width="40" height="40"> and other Front End Tools**
 
 - 📫 How to reach me **mmaroof487@gmail.com**
 
