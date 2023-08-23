@@ -4,7 +4,7 @@
 
 <div style="margin: 60 0">
 
-- 🔭 I’m currently learning **REACT JS AND OTHER FRONT-END TOOLS**
+- 🔭 I’m currently learning **REACT JS <img src="./download-removebg-preview.png" width= 30px; style="margin: 0;"  alt="React"> AND OTHER FRONT-END TOOLS**
 
 - 🌱 Currently studying **B.Tech CSE at SRMIST, Chennai**
 
