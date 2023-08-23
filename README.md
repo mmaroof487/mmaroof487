@@ -6,6 +6,8 @@
 
 - 🔭 I’m currently learning **REACT JS AND OTHER FRONT-END TOOLS**
 
+- 🌱 Currently studying **B.Tech CSE at SRMIST, Chennai**
+
 - 📫 How to reach me **mmaroof487@gmail.com**
 </div>
 
