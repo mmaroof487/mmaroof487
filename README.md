@@ -21,26 +21,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div style="margin: 0 0 60 0;">
-<p align="left">
-<!-- *html -->
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="image-removebg-preview3.png" alt="html5" width="40" height="50"/> </a>
-<!-- *css -->
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="image-removebg-preview4.png" alt="css3" width="40" height="50"/>
-</a>
-<!-- *js -->
-<a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
-<img src="image-removebg-preview5.png" alt="js" width="40" height="45"/>
-</a>
-<!-- *bs -->
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-<img src="image-removebg-preview2.png" alt="bs" width="40" height="40">
-</a>
-<!-- *tailwind -->
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-<img src="image-removebg-preview.png" alt="tw-css" width="35" height="35">
-</a>
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img alt="Tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
 
 <div>
