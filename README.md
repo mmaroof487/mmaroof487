@@ -4,7 +4,8 @@
 
 <div style="margin: 60 0">
 
-- 🔭 I’m currently learning **REACT JS <img src="./download-removebg-preview.png" width= 30px; style="margin: 0;"  alt="React"> AND OTHER FRONT-END TOOLS**
+- 🔭 I’m currently learning **REACT JS** <img src="./download-removebg-preview.png" width= 30px; style="margin: 0;"  alt="React">, **C++**<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width= 30px; height=20px;  style="margin: 0;"/>
+  AND **OTHER FRONT-END TOOLS**
 
 - 🌱 Currently studying **B.Tech CSE at SRMIST, Chennai**
 
@@ -26,6 +27,9 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="Tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
 </div>
 
 <div>
