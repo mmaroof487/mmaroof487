@@ -4,8 +4,8 @@
 
 <div style="margin: 60 0">
 
-- 🔭 I’m currently learning **REACT JS** <img src="./download-removebg-preview.png" width= 30px; style="margin: 0;"  alt="React">, **C++**<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width= 30px; height=20px;  style="margin: 0;"/>
-  AND **OTHER FRONT-END TOOLS**
+- 🔭 I’m currently learning **BACK-END TOOLS**,
+  AND **SOMEOTHER FRONT-END TOOLS**
 
 - 🌱 Currently studying **B.Tech CSE at SRMIST, Chennai**
 
