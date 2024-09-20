@@ -4,8 +4,7 @@
 
 <div style="margin: 60 0">
 
-- 🔭 I’m currently learning **BACK-END TOOLS**,
-  AND **SOMEOTHER FRONT-END TOOLS**
+- 🔭 I’m currently learning **BACK-END DEVELOPMENT TOOLS**
 
 - 🌱 Currently studying **B.Tech CSE at SRMIST, Chennai**
 
