@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mohammad Maroof</h1>
-<h3 align="center">A passionate Front End Web Developer</h3>
+<h3 align="center">A passionate Full Stack Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="giphy.gif">
 
 <div style="margin: 60 0">
 
-- 🔭 I’m currently learning **BACK-END DEVELOPMENT TOOLS**
+- 🔭 I’m currently learning **MERN Stack**
 
 - 🌱 Currently studying **B.Tech CSE at SRMIST, Chennai**
 
@@ -27,8 +27,10 @@
   <img alt="Tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img alt="ReactJS" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"/>
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white"/>
   <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-880000.svg?style=for-the-badge&logo=Mongoose&logoColor=white"/>
+  <img alt="ExpressJS" src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white"/>
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white"/>
 
 </div>
