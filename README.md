@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Maroof</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
-<img align="right" alt="Coding" width="400" src="giphy.gif" style="margin-bottom: 40px;">
+<img align="right" alt="Coding" width="400" height="400" src="giphy.gif" >
 
 <div style="margin: 60 0">
 
