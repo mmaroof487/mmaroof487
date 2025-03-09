@@ -42,8 +42,7 @@
   <img alt="JWT" src="https://img.shields.io/badge/JSON%20Web%20Tokens-000000.svg?style=for-the-badge&logo=JSON-Web-Tokens&logoColor=white"/>
   <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-4000BF.svg?style=for-the-badge&logo=Insomnia&logoColor=white"/>
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white"/>
-  
-  <img alt="tsx" src= "https://camo.githubusercontent.com/76ddf5800a87787ec51ee5cc68fc943a8792e281bdaf6d78e9297cce507e0a37/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7473782532302d2532333332333333302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d626c7565"/>
+
 
 
 </div>
