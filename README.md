@@ -29,7 +29,6 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img alt="JSX" src="https://img.shields.io/badge/jsx%20-%23323330.svg?&style=for-the-badge&logo=react&logoColor=%61DBFB"/>
     <img alt="tsx" src= "https://camo.githubusercontent.com/76ddf5800a87787ec51ee5cc68fc943a8792e281bdaf6d78e9297cce507e0a37/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7473782532302d2532333332333333302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d626c7565"/>
-  <img alt="npm" src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
   <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white"/>
   <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img alt="ejs" src="https://img.shields.io/badge/EJS-B4CA65.svg?style=for-the-badge&logo=EJS&logoColor=black"/>
@@ -37,7 +36,6 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white"/>
   <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-880000.svg?style=for-the-badge&logo=Mongoose&logoColor=white"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
-  <img alt="JSON" src="https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white"/>
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white"/>
   <img alt="JWT" src="https://img.shields.io/badge/JSON%20Web%20Tokens-000000.svg?style=for-the-badge&logo=JSON-Web-Tokens&logoColor=white"/>
   <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-4000BF.svg?style=for-the-badge&logo=Insomnia&logoColor=white"/>
