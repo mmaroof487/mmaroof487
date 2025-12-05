@@ -4,7 +4,7 @@
 
 <div style="margin: 60 0">
 
-- 🔭 I’m currently learning **MERN Stack**
+- 🔭 I’m working as a Frontend intern at **XenKrypt Technologies**
 
 - 🌱 Currently studying **B.Tech CSE at SRMIST, Chennai**
 
@@ -52,6 +52,7 @@
 <!--![MarooF's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmaroof487&show_icons=true)-->
 
 </div>
+
 
 
 
