@@ -49,9 +49,10 @@
 
 <div>
 
-<!--![MarooF's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmaroof487&show_icons=true)-->
+![Maroof's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmaroof487&show_icons=true&theme=transparent)
 
 </div>
+
 
 
 
