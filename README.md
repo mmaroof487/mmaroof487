@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Maroof</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
-<img align="right" alt="Coding" width="400" height="250" src="giphy.gif" >
+<img align="right" alt="Coding" width="400" height="200" src="giphy.gif" >
 
 <div style="margin: 60 0">
 
@@ -53,6 +53,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmaroof487&theme=dark&hide_border=true&layout=compact" />
 </p>
 </div>
+
 
 
 
