@@ -45,14 +45,15 @@
 
 
 
-# 📊 GitHub Stats:
+<!-- # 📊 GitHub Stats:
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=mmaroof487&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <br/> -->
+   <img src="https://github-readme-stats.vercel.app/api?username=mmaroof487&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <br/> 
   <img src="https://nirzak-streak-stats.vercel.app/?user=mmaroof487&theme=dark&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmaroof487&theme=dark&hide_border=true&layout=compact" />
-</p>
+</p> -->
 </div>
+
 
 
 
