@@ -107,8 +107,6 @@ Software Engineer &nbsp;·&nbsp; Chennai, India
 [![Email](https://img.shields.io/badge/mmaroof487@gmail.com-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mmaroof487@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/mohammad-maroof)
 
-<br/>
-
 <em>Open to SDE roles &nbsp;·&nbsp; Internships &nbsp;·&nbsp; Collaborations</em>
 
 </div>
