@@ -15,7 +15,6 @@ Software Engineer &nbsp;·&nbsp; Chennai, India
 
 </div>
 
-
 ---
 
 ## Tech Stack
@@ -53,18 +52,40 @@ Software Engineer &nbsp;·&nbsp; Chennai, India
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-
 ---
 
 ## Experience
 
-**SENTRIX** &nbsp;—&nbsp; *Intern, AI Security Platform* &nbsp;&nbsp;`Mar 2026 – Present` &nbsp;·&nbsp; TalenciaGlobal, Chennai
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-> Built an Agent Governance layer using FastAPI and OPA, achieving **100% prevention** of prompt injection and data exfiltration attacks in testing. Developed an AI observability pipeline with OpenTelemetry, ELK, Prometheus and Grafana across **10+ distributed services**. Contributing to a horizontal security control plane spanning **11 enterprise security domains**.
+<strong>SENTRIX</strong> &nbsp;—&nbsp; <em>Intern, AI Security Platform</em><br/>
+ TalenciaGlobal, Chennai <br/>
+ <code>Mar 2026 – Present</code> 
 
-**XENKRYPT** &nbsp;—&nbsp; *Frontend Development Intern* &nbsp;&nbsp;`Dec 2025 – Mar 2026` &nbsp;·&nbsp; TGL Innovation Accelerator, Chennai
+<ul>
+<li>Built Agent Governance layer with FastAPI + OPA — <strong>100% prevention</strong> of prompt injection &amp; data exfiltration in testing</li>
+<li>Developed AI observability pipeline with OpenTelemetry, ELK, Prometheus &amp; Grafana across <strong>10+ distributed services</strong></li>
+<li>Contributing to a horizontal security control plane spanning <strong>11 enterprise security domains</strong></li>
+</ul>
 
-> Optimized Next.js 14 application performance, improving Lighthouse scores and reducing page load time. Built **Encrypti-V**, a secure multi-tenant email platform using React, Node.js and PostgreSQL. Implemented end-to-end encrypted file sharing with **AES-256-GCM** and **ML-KEM**.
+</td>
+<td width="50%" valign="top">
+
+<strong>XENKRYPT</strong> &nbsp;—&nbsp; <em>Frontend Development Intern</em><br/>
+ TGL Innovation Accelerator, Chennai <br/> 
+ <code>Dec 2025 – Mar 2026</code> 
+
+<ul>
+<li>Optimized Next.js 14 performance, improving Lighthouse scores and reducing page load time</li>
+<li>Built <strong>Encrypti-V</strong>, a secure multi-tenant email platform with React, Node.js and PostgreSQL</li>
+<li>Implemented end-to-end encrypted file sharing using <strong>AES-256-GCM</strong> and <strong>ML-KEM</strong></li>
+</ul>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -90,7 +111,6 @@ Software Engineer &nbsp;·&nbsp; Chennai, India
 
 <br/>
 
-*Open to SDE roles &nbsp;·&nbsp; Internships &nbsp;·&nbsp; Collaborations*
-
+<em>Open to SDE roles &nbsp;·&nbsp; Internships &nbsp;·&nbsp; Collaborations</em>
 
 </div>
