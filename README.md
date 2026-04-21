@@ -106,8 +106,6 @@ Software Engineer &nbsp;·&nbsp; Chennai, India
 
 [![Email](https://img.shields.io/badge/mmaroof487@gmail.com-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mmaroof487@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/mohammad-maroof)
-[![Twitter](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/MMaroof487)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/muhammad_maroof1)
 
 <br/>
 
